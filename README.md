@@ -6,7 +6,10 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/kaankoken/?locale=en_US) | 🔗 [GitHub](https://github.com/kaankoken) | 🔗 [GitHub-Work](https://github.com/kkoken)
 
-![Programming Gandalf](https://i.redd.it/zrbrx2kjg6j21.jpg) ![Rust Meme](https://repository-images.githubusercontent.com/202272857/2f6d9380-7e7b-11ea-8a7a-88d9619ac15f)
+<div align="center">
+<img width=150, height=210 src="https://user-images.githubusercontent.com/28218396/232255336-06ea609f-ccb2-4916-85c6-dc5045b55150.png" alt="Rust Meme"/>               <img width=200, height=210 src="https://user-images.githubusercontent.com/28218396/232255476-1396b5bc-4902-4f4d-9841-2409d121c660.jpg"></div>
+
+
 
 ## About Me
 
