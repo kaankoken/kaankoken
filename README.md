@@ -32,10 +32,6 @@ I have a great passion for Rust and Data Engineering. Although I enjoy being a M
 
 - **Aviation Dictionary App** - An offline dictionary app for the aviation industry, created with Flutter. The app features offline search, text-to-speech capability, and utilizes Isar and Hive (NoSQL databases) for data storage, Lottie for animations, go_router for routing, Firebase for analytics and crashlytics, and Riverpod for state management. The project also incorporates a GitHub Actions CI/CD pipeline.
 
-- [Envied](https://github.com/petercinibulk/envied) - A simple and elegant environment variable manager for Python
-- [Trading Timeseries](https://github.com/evsamsonov/trading-timeseries) - A Python library for processing financial time series data
-- [Trading Indicators](https://github.com/evsamsonov/trading-indicators) - A Python library for calculating various technical indicators for financial time series data
-
 ## Skills
 
 - **Programming Languages:** Python, Go, Rust, Dart
