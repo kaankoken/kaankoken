@@ -15,8 +15,9 @@
 
 Hi, I'm Kaan Köken, a Computer Engineer with 3.5+ years of experience in Software Engineering. Most of my friends call me Legolas. I have a strong background in various programming languages and technologies, including Python, Go, Rust, and Dart.
 
-I am a huge fan of Lord of the Rings and Star Wars, which is where I got my nickname. In my free time, I enjoy listening to EDM, piano, and purely instrumental music.
-I enjoy cooking a meal & try new recipes.
+I am a huge fan of Lord of the Rings and Star Wars, which is where I got my nickname. In my free time, I enjoy listening to EDM, piano, and purely instrumental music. I enjoy cooking a meal & try new recipes.
+
+I recently switched from [vscode](https://code.visualstudio.com) to [neovim](https://neovim.io) thanks to those guys [ThePrimeagen](https://github.com/ThePrimeagen) & [tjdevries](https://github.com/tjdevries)
 
 Currently, I'm working at GAİN, a leading OTT platform in Turkey, as a Mobile Application Developer (Flutter) for almost two years. Prior to that, I worked as an Android Developer for one and a half years on various projects.
 
