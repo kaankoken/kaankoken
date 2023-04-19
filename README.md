@@ -33,6 +33,8 @@ I have a great passion for Rust and Data Engineering. Although I enjoy being a M
 
 - **Aviation Dictionary App** - An offline dictionary app for the aviation industry, created with Flutter. The app features offline search, text-to-speech capability, and utilizes Isar and Hive (NoSQL databases) for data storage, Lottie for animations, go_router for routing, Firebase for analytics and crashlytics, and Riverpod for state management. The project also incorporates a GitHub Actions CI/CD pipeline.
 
+[Apple App Store](https://apps.apple.com/tr/app/tea/id6447990896)
+
 ## Skills
 
 - **Programming Languages:** Python, Go, Rust, Dart
