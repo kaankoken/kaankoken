@@ -1,54 +1,37 @@
-## Hi There👋
+## Hey, I'm Kaan 👋
 
-![GitHub followers](https://img.shields.io/github/followers/kaankoken?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/kaan_lego_koken?style=social)
+Most of my friends call me Legolas — blame my college friends and a Lord of the Rings obsession that never wore off.
 
-👨‍💻 **Software Engineer** | 📱 **Mobile App Developer** | 🌐 **Open Source Enthusiast** | 🦀 **Rustacean**
+Senior Software Engineer based in Deurne, Netherlands. 6+ years shipping production apps across mobile, backend, and web. Currently building AI-powered platforms at Morfeu AI.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/kaankoken/?locale=en_US) | 🔗 [GitHub](https://github.com/kaankoken) | 🔗 [GitHub-Work](https://github.com/kkoken)
+[![LinkedIn](https://img.shields.io/badge/-kaankoken-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kaankoken) [![GitHub](https://img.shields.io/github/followers/kaankoken?style=social)](https://github.com/kaankoken)
 
-<div align="center">
-<img width=150, height=210 src="https://user-images.githubusercontent.com/28218396/232255336-06ea609f-ccb2-4916-85c6-dc5045b55150.png" alt="Rust Meme"/>               <img width=200, height=210 src="https://user-images.githubusercontent.com/28218396/232255476-1396b5bc-4902-4f4d-9841-2409d121c660.jpg"></div>
+### What I'm Working On
 
+- 🎙️ **[Voluble](https://voluble.co.uk)** — Real-time speech-to-speech translation with sub-3s latency. React/Vite + Express/Bun + Flutter companion app. YC S26 applicant.
+- 📖 **[Laila](https://tellmelaila.com)** — AI story platform (iOS & Android) at Morfeu AI
+- 🎬 **[Again](https://again.new)** — AI video platform (iOS & Android) at Morfeu AI
+- 🛠️ **[Morfeu Studio](https://morfeu.studio)** — Multi-model AI platform integrating Claude, OpenAI, and Gemini (upcoming)
 
+### Open Source
 
-## About Me
+I learn best by reading other people's code and breaking things in public.
 
-Hi, I'm Kaan Köken, a Computer Engineer with 3.5+ years of experience in Software Engineering. Most of my friends call me Legolas. I have a strong background in various programming languages and technologies, including Python, Go, Rust, and Dart.
+**Flutter/Dart:** [media-kit](https://github.com/media-kit/media-kit/pull/1330) · [flutter/flutter](https://github.com/flutter/flutter/issues/176902) · [flutter_meta_appads_sdk](https://github.com/sdurban/flutter_meta_appads_sdk/pull/4) · [envied](https://github.com/petercinibulk/envied/pull/14) · [app_settings](https://github.com/spencerccf/app_settings/pull/260)
 
-I am a huge fan of Lord of the Rings and Star Wars, which is where I got my nickname. In my free time, I enjoy listening to EDM, piano, and purely instrumental music. I enjoy cooking a meal & try new recipes.
+**Rust:** [google-cloud-rust](https://github.com/googleapis/google-cloud-rust/issues/4033) · [rio](https://github.com/raphamorim/rio/issues/796) · [monodon](https://github.com/Cammisuli/monodon/pull/58)
 
-I recently switched from [vscode](https://code.visualstudio.com) to [neovim](https://neovim.io) thanks to those guys [ThePrimeagen](https://github.com/ThePrimeagen) & [tjdevries](https://github.com/tjdevries)
+**Go:** [trading-timeseries](https://github.com/evsamsonov/trading-timeseries/pull/1) · [trading-indicators](https://github.com/evsamsonov/trading-indicators/pull/3)
 
-Currently, I'm working at GAİN, a leading OTT platform in Turkey, as a Mobile Application Developer (Flutter) for almost two years. Prior to that, I worked as an Android Developer for one and a half years on various projects.
+### Beyond the Code
 
-I'm a firm believer in open-source and try to contribute to projects as much as I can. So far, I have contributed to three open-source projects:
+🐕 Life with a 3-year-old Border Collie named Loki means no lazy mornings.
+🧱 LEGO collector — building sets is basically architecture with better instructions.
+🏊 Swimming to reset.
+🏠 DIY & smart home tinkerer — if it can be automated, it will be.
+🎮 Dota 2 — still chasing that Ancient rank.
+⚔️ Still a Lord of the Rings and Star Wars fan. Obviously.
 
-- [Envied](https://github.com/petercinibulk/envied)
-- [Trading Timeseries](https://github.com/evsamsonov/trading-timeseries)
-- [Trading Indicators](https://github.com/evsamsonov/trading-indicators)
+### Get in Touch
 
-I have a great passion for Rust and Data Engineering. Although I enjoy being a Mobile Application Developer and working with Flutter, I aim to work with Rust in Data Engineering. I'm currently developing my own projects using Rust and Flutter.
-
-## Recent Projects
-
-- **Aviation Dictionary App** - An offline dictionary app for the aviation industry, created with Flutter. The app features offline search, text-to-speech capability, and utilizes Isar and Hive (NoSQL databases) for data storage, Lottie for animations, go_router for routing, Firebase for analytics and crashlytics, and Riverpod for state management. The project also incorporates a GitHub Actions CI/CD pipeline.
-
-[Apple App Store](https://apps.apple.com/tr/app/tea/id6447990896)
-
-## Skills
-
-- **Programming Languages:** Python, Go, Rust, Dart
-- **Frameworks:** Flutter, Android
-- **Technologies:** Mobile App Development, Data Engineering, Open Source
-
-## Licenses & Certifications & Courses
-
-- **Apache Kafka Fundamentals** - Confluent
-- **Google Developer Challenge Scholarship** - Udacity,  
-- **Intel® Edge AI Scholarship** - Udacity, 
-- **Microsoft Azure Machine Learning Scholarship** - Udacity
-
-
-## Get in Touch
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kaankoken/?locale=en_US) or follow me on [Twitter](https://twitter.com/kaan_lego_koken). If you're interested in collaborating or have any questions, feel free to reach out via email at kaan_taha_koken@hotmail.com!
+📫 kaan_taha_koken@hotmail.com · [LinkedIn](https://linkedin.com/in/kaankoken) · [GitHub](https://github.com/kaankoken)
