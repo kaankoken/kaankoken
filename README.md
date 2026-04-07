@@ -25,12 +25,12 @@ I learn best by reading other people's code and breaking things in public.
 
 ### Beyond the Code
 
-🐕 Life with a 3-year-old Border Collie named Loki means no lazy mornings.
-🧱 LEGO collector — building sets is basically architecture with better instructions.
-🏊 Swimming to reset.
-🏠 DIY & smart home tinkerer — if it can be automated, it will be.
-🎮 Dota 2 — still chasing that Ancient rank.
-⚔️ Still a Lord of the Rings and Star Wars fan. Obviously.
+- 🐕 Life with a 3-year-old Border Collie named Loki means no lazy mornings.
+- 🧱 LEGO collector — building sets is basically architecture with better instructions.
+- 🏊 Swimming to reset.
+- 🏠 DIY & smart home tinkerer — if it can be automated, it will be.
+- 🎮 Dota 2 — still chasing that Ancient rank.
+- ⚔️ Still a Lord of the Rings and Star Wars fan. Obviously.
 
 ### Get in Touch
 
